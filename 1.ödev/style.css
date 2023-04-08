@@ -52,6 +52,7 @@ body {
 .main-header ul li a {
     color: var(--primary-color);
     padding: 0 1rem;
+    transition: all 1s;
 }
 
 .main-header ul li a:hover{
@@ -61,6 +62,7 @@ body {
 
 .main-header .bar a {
     color: var(--primary-color);
+    
 }
 
 /* main */
